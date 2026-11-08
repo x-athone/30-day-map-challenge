@@ -5,19 +5,19 @@
   "author_location": { "lat": 50.2976, "lon": 18.6766 },
   "submissions": {
     "2026-11-12": {
-      "title": "Gliwice Campus Access Map",
+      "title": "Synagogue under white stork Map",
       "bounty_participation_acceptor": true,
-      "tags": ["vector", "architecture", "grunge"],
+      "tags": ["vector", "architecture", "isometry"],
       "moodboard": {
-        "fallback_preview": "https://raw.githubusercontent.com/htochko/htochko.github.io/refs/heads/master/pics/map/x.svg"
+        "fallback_preview": "https://as2.ftcdn.net/jpg/05/46/63/29/220_F_546632911_WrpB8CjWCn451TVeB2DgPkcAG33Cg0N6.jpg"
       }
     },
     "2026-11-13": {
-      "title": "Gliwice Campus Access Map",
+      "title": "Wlodkowica street Map",
       "bounty_participation_acceptor": true,
-      "tags": ["vector", "architecture", "grunge"],
+      "tags": ["heritage", "architecture", "siteview"],
       "moodboard": {
-        "fallback_preview": "https://raw.githubusercontent.com/htochko/htochko.github.io/refs/heads/master/pics/map/cadmapper-wrocaw-lower-silesia-pl.svg"
+        "fallback_preview": "https://as1.ftcdn.net/jpg/05/46/81/62/220_F_546816270_NpISODln0p63dlJrMDPiydcYYw3nA9MZ.jpg"
       }
     },
     "2026-11-14": {
@@ -26,30 +26,6 @@
       "tags": ["vector", "architecture", "grunge"],
       "moodboard": {
         "fallback_preview": "https://raw.githubusercontent.com/htochko/htochko.github.io/refs/heads/master/pics/3dgallery.svg"
-      }
-    },
-    "2026-11-15": {
-        "title": "Gliwice Campus Access Map",
-      "bounty_participation_acceptor": true,
-      "tags": ["vector", "architecture", "grunge"],
-      "moodboard": {
-        "fallback_preview": "https://raw.githubusercontent.com/htochko/htochko.github.io/refs/heads/master/pics/abstract_0001.svg"
-      }
-    },
-    "2026-11-16": {
-        "title": "Gliwice Campus Access Map",
-      "bounty_participation_acceptor": true,
-      "tags": ["vector", "architecture", "grunge"],
-      "moodboard": {
-        "fallback_preview": "https://raw.githubusercontent.com/htochko/htochko.github.io/refs/heads/master/pics/map/arch.svg"
-      }
-    },
-    "2026-11-17": {
-        "title": "Gliwice Campus Access Map",
-      "bounty_participation_acceptor": true,
-      "tags": ["vector", "architecture", "grunge"],
-      "moodboard": {
-        "fallback_preview": "https://raw.githubusercontent.com/htochko/htochko.github.io/refs/heads/master/pics/map/head.svg"
       }
     }
   }
